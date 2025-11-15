@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Me chamo Kevin Rafael de Almeida, tenho 17 anos e sou natural de Ribeirão Pires, São Paulo. Atualmente, estou cursando o 3º ano do ensino médio integrado ao curso de Informática para a Internet. Tenho foco em me tornar desenvolvedor Full Stack, unindo habilidades no front-end e back-end para criar soluções completas e eficientes. Sou apaixonado por tecnologia e busco constantemente aprender novas ferramentas e linguagens que me aproximem do meu objetivo profissional.
+Me chamo Kevin Rafael de Almeida, tenho 18 anos e sou natural de Ribeirão Pires, São Paulo. Atualmente, estou cursando o 3º ano do ensino médio integrado ao curso de Informática para a Internet. Tenho foco em me tornar desenvolvedor Full Stack, unindo habilidades no front-end e back-end para criar soluções completas e eficientes. Sou apaixonado por tecnologia e busco constantemente aprender novas ferramentas e linguagens que me aproximem do meu objetivo profissional.
 
 
 ### 🤖 Linguagens e Tecnologias
