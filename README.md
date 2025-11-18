@@ -56,6 +56,26 @@ Me chamo Kevin Rafael de Almeida, tenho 18 anos e sou natural de Ribeirão Pires
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>         
+
+ <img 
+    align="left" 
+    alt="MySQL" 
+    title="MySql"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>                 
+<br/>
+
 <br/>
 <br/>
 
