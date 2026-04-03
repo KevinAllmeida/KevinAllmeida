@@ -1,6 +1,6 @@
 # Kevin Almeida 💻🚀
 
-**`FullStack Developer`**
+**`Web Developer`**
 
 My name is Kevin, I am 18 years old and I am from Ribeirão Pires, São Paulo. I am currently attending the 3rd year of high school integrated with an Information Technology for the Internet course. My focus is on becoming a Full Stack developer, uniting front-end and back-end skills to create complete and efficient solutions. I am passionate about technology and constantly seek to learn new tools and languages that bring me closer to my professional goal.
 
@@ -55,16 +55,7 @@ My name is Kevin, I am 18 years old and I am from Ribeirão Pires, São Paulo. I
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="50px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-/>         
+       
 
  <img 
     align="left" 
