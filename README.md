@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-My name is Kevin, I am 18 years old and I am from Ribeirão Pires, São Paulo. I am currently attending the 3rd year of high school integrated with an Information Technology for the Internet course. My focus is on becoming a Full Stack developer, uniting front-end and back-end skills to create complete and efficient solutions. I am passionate about technology and constantly seek to learn new tools and languages that bring me closer to my professional goal.
+My name is Kevin, I am 18 years old and I am from Ribeirão Pires, São Paulo. I recently graduated from high school integrated with a Technical Course in Information Technology for the Internet. My focus is on becoming a Web Developer, creating modern, efficient, and functional web solutions. I am passionate about technology and constantly seeking to learn new tools and programming languages that contribute to my professional growth and improve my skills as a developer.
 
 
 ### 🤖 Linguagens e Tecnologias
